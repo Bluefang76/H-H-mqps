@@ -1,0 +1,6 @@
+﻿<Solution>
+  <Project Path="Wayfinding.Runtime.csproj" />
+  <Project Path="Assembly-CSharp-Editor.csproj" />
+  <Project Path="Wayfinding.Editor.csproj" />
+  <Project Path="Assembly-CSharp.csproj" />
+</Solution>
